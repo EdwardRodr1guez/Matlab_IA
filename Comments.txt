@@ -1,0 +1,2 @@
+Matlab file with the 6 pretrained models menctioned in the paper.
+Feel free of explore them and plot their learning curves, model parameters' evolution during each iteration and so on!
